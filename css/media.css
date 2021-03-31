@@ -1,0 +1,352 @@
+@media(max-width:1200px){
+.my_form,nav,.hid,.myleft01,.myright01,.myleftbrands,.myrightbrands,.myleftcom,.myrightcom{
+    display:none!important;
+}
+.my_searchbar>span>input {
+    border: 0;
+    border-left: 1px solid rgb(36 39 44 / 10%);
+    padding: 0 20px;
+    -webkit-box-shadow: inset 0 1px 4px 0 rgb(0 0 0 / 10%);
+    box-shadow: inset 0 1px 4px 0 rgb(0 0 0 / 10%);
+    -webkit-border-radius: 4px 0 0 4px;
+    border-radius: 4px 0 0 4px;
+    background: rgb(247 247 247);
+    color: rgb(36 39 44);
+    font-size: 14px;
+    height: 48px;
+    line-height: 18px;
+    /* float: right; */
+    margin-right: 60px;
+    width: 79%;
+    text-overflow: ellipsis;
+}
+.crousel_item>ul>li>a>img{
+	 width: 359px;
+    height: 150px;
+    border-radius: 16px;
+    /* margin: 31px 71px; */
+    object-fit: cover;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-align: start;
+    padding: 10px;
+
+}
+.crousel_item>ul>li>a>img{
+	    width: 359px!important;
+    height: 190px!important;
+    border-radius: 18px;
+    margin: 31px 10px;
+    object-fit: cover;
+
+
+}
+
+ol{
+    display:none!important
+}
+.crousel_item>ul {
+	display: inline-flex;
+	width: 100%;
+	overflow: scroll;
+	scroll-behavior: smooth;
+	scroll-snap-type: x mandatory;
+	scroll-behavior: smooth;
+	-webkit-overflow-scrolling: touch;
+	overflow: auto;
+	scroll-snap-align: start;
+	flex-shrink: 1;
+	transform-origin: center center;
+	scroll-snap-type: x mandatory;
+}
+.crouselitem>ul>li,.crouselitem01>ul>li,.crouselitem02>ul>li{
+    display: inline!important;
+    border: 1px solid rgb(211 211 211 / 0%);
+    padding: 10px;
+    margin: 10px -5px;
+    box-shadow: 0 1px 3px rgb(36 39 44 / 15%);
+    border-radius: 2px;
+    line-height: 13px;
+}
+.brands>.crouselitem>ul {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    scroll-behavior: smooth;
+}
+.brands>.crouselitem>ul>li>a>.car_img>img {
+
+      width: 100%!important;
+    margin: 10px 3px;
+
+}
+.recommended_cars{
+    padding: 10px;
+}
+.latest_cars {
+padding:10px;}
+.budget_car {
+padding:10px;}
+.upcomming_cars{
+padding:10px;}
+.brands,.compare{
+padding:10px;}
+.crouselitem>ul>li>a>.car_img{
+       width: 86%!important;
+    margin: 0px 17px;
+    scroll-snap-align: start;
+}
+
+
+.name>p{
+	line-height: 21px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	margin: 0px 25px;
+	font-size: 17px;
+}
+.myrightbrands{
+	 position: absolute;
+    top: 232px;
+    left: 45px;
+    padding: 10px 15px;
+    border-radius: 100%;
+    background: rgb(255 255 255);
+    border-radius: 100px;
+    background: rgb(255 255 255);
+    box-shadow: 0 8px 12px 0 rgb(36 39 44 / 15%);
+    color: rgb(0 0 0)!Important;
+}
+.ofr_btn {
+    padding: 0px 0px;
+    border: 0px solid rgb(247 93 52);
+}
+.name, .price {
+    font-size: 13px;
+    color: rgb(36 39 44 / 87%);
+    font-weight: 800;}
+.myleft,.myright{
+ display:none;
+}
+.crouselitem>ul{
+   display: inline-flex;
+    width: 100%;
+    overflow: scroll;
+    scroll-behavior: smooth;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+    overflow: auto;
+    scroll-snap-align: start;
+    flex-shrink: 1;
+    transform-origin: center center;
+    scroll-snap-type: x mandatory;
+}
+.col-md-6{
+	float:left;
+	width:50%;
+}
+.tab_list>ul>li{
+   display:inline-block;
+       padding: 0px 6px;
+  
+}
+.tab01,.tab02,.tab03,.tab04{
+	padding: 10px;
+	text-align: center;
+	vertical-align: middle;
+	text-align: center;
+	background: rgb(153 93 237);
+	color: rgb(255 255 255)!important;
+	border-radius: 10px;
+	height: 180px;
+	font-size: 10px;
+	font-weight: bold;
+	padding: 21px 0 10px;
+	margin:10px 0px;
+}
+.crouselitem>ul>li>a>.car_img>img {
+   
+    width: 143px!important;
+    margin: 1px -19px;
+
+}
+.brands>. crouselitem>ul>li>a>.car_img{
+	width: 101%!important;
+    margin: 0px 3px;
+    scroll-snap-align: start;
+}
+.tab_name{
+	font-size:20px!important;
+}
+.tab_name,.get_name{
+	color:white!important;
+}
+.tab02{
+	background: rgb(247 93 52);
+}
+.tab03{
+	    background: rgb(92 167 249)
+}
+.tab04{
+	    background: rgb(82 220 153);
+}
+.mobile_tab{
+	display:block;
+}
+.my_searchbar>span>input {
+        border: 0;
+    border-left: 1px solid rgb(36 39 44 / 10%);
+    padding: 0 20px;
+    -webkit-box-shadow: inset 0 1px 4px 0 rgb(0 0 0 / 10%);
+    box-shadow: inset 0 1px 4px 0 rgb(0 0 0 / 10%);
+    -webkit-border-radius: 4px 0 0 4px;
+    border-radius: 4px 0 0 4px;
+    background: rgb(247 247 247);
+    color: rgb(36 39 44);
+    font-size: 14px;
+    height: 48px;
+    line-height: 18px;
+    /* float: right; */
+    margin-right: 15px;
+    width: 89%;
+    text-overflow: ellipsis;
+    border-radius: 30px;
+    margin-top: -20px;
+}
+.s_btn {
+  
+    position: absolute;
+    right: 42px;
+    padding: 14px 19px;
+    background: rgb(36 39 44);
+    color: rgb(255 255 255);
+    cursor: pointer;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    top: -9px;
+
+}
+.f_m,.s_m,.t_m{
+  width: 25px;
+  height: 2px;
+  background-color: black;
+  margin: 6px 0;
+}
+.s_m{
+	 width: 20px;
+}
+.t_m{
+	 width: 12px;
+}
+.logo>img {
+    width: 131px!important;
+    margin-left: 35px;
+}
+.menu{
+	    position: absolute;
+    top: 20px;
+}
+.tab_list>ul{
+	    width: 100%;
+    overflow: scroll;
+    display: flex;
+}
+.brands>.crouselitem>ul>li{
+	width:33.333%;
+	float:left;
+}
+.widgets>ul>li>a>select{
+	    position: absolute;
+    top: -81px;
+    right: 7px;
+    z-index: 9999999999999999999999999;
+    border-radius: 100%;
+    width: 33px;
+    padding: 6px 0px;
+    display: block!Important;
+	}
+.widgets>ul,.my_searchbar>ul{
+	padding:0px!important;
+}
+
+.banner>.container-fluid{
+	
+	background: linear-gradient(90deg,rgb(255 255 255 / 0%) 23%,rgb(241 241 241) 58%)!important;
+}
+.banner>.container-fluid>.row>.col-md-6,.banner>.container-fluid>.row>.col-md-3{
+	width:100%;
+}
+.banner-tab>a {
+  width: 169px!important;
+  
+}
+.tag {
+ 
+    font-size: 10px;
+}
+.banner{
+	position:relative;
+	padding:0px;
+}
+.banner-tab {
+    vertical-align: middle;
+    position: absolute;
+    /* margin: 63px 0px 0px 0px; */
+    top: -177px;
+    right: 25px;
+}
+.com_img>img{
+  width:150px;
+
+}
+.compare{
+position:relative!important;}
+.compare_cars>.car_data{
+   width:100%;
+float:left;
+
+}
+.compare_cars{
+display:flex;
+
+}
+.compare>.crouselitem>ul>li {
+        margin: 0px -12px 0px 0px;
+    position: relative!important;
+}
+.versess{
+      width: 36px;
+    height: 36px;
+    background: rgb(0 0 0);
+    border: 1px solid rgb(36 39 44 / 15%);
+    font-weight: 500;
+    text-align: center;
+    line-height: 36px;
+    color: rgb(255 255 255);
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    position: absolute;
+    right: 142px;
+    top: 25%;
+    margin-top: -18px;
+    z-index: 1;}
+  
+}
+footer{
+	text-align:center;
+}
+.list01,.list02,.list03,.my_last_brand,.tags{
+	display:none;
+}
+.list04:first-child p,.col-md-6{
+	display:none
+}
+.list04>ul>li{
+	display:inline-block!important;
+}
+footer>.container>.col-md-8{
+	width:50%;
+	float:left;
+	
+}
+
+

@@ -334,7 +334,7 @@ display:flex;
 footer{
 	text-align:center;
 }
-.list01,.list02,.list03,.my_last_brand,.tags{
+.list01,.list02,.list03,.my_last_brand>.col-md-6,.tags{
 	display:none;
 }
 .list04:first-child p,.col-md-6{
